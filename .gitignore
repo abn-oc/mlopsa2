@@ -1,0 +1,10 @@
+# Python
+venv/
+*.pyc
+__pycache__/
+
+# DVC
+.dvc/cache
+
+# Large Data & Models (tracked via DVC)
+*.h5
